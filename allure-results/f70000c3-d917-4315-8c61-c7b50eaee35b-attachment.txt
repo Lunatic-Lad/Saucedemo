@@ -1,0 +1,8 @@
+[32mINFO    [0m BaseObject:base.py:28 ('id', 'user-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'user-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:28 ('id', 'password') reading visible text
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'password') getting visible element
+[32mINFO    [0m BaseObject:base.py:24 ('id', 'login-button') clicking on the element
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'login-button') getting visible element
+[32mINFO    [0m BaseObject:base.py:32 ('class name', 'title') saving visible text
+[32mINFO    [0m BaseObject:base.py:16 ('class name', 'title') getting visible element

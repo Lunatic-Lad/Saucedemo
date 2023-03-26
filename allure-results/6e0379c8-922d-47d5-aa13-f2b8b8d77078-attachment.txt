@@ -1,0 +1,9 @@
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'user-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'user-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'password') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'password') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'login-button') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'login-button') getting visible element
+[32mINFO    [0m BaseObject:base.py:33 ('class name', 'error-message-container') saving visible text
+[32mINFO    [0m BaseObject:base.py:17 ('class name', 'error-message-container') getting visible element
+[32mINFO    [0m BaseObject:base.py:37  comparing the expected result: Epic sadface: Username is required with the actual result: Epic sadface: Username is required

@@ -1,0 +1,25 @@
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'user-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'user-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'password') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'password') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'login-button') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'login-button') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'add-to-cart-sauce-labs-backpack') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'add-to-cart-sauce-labs-backpack') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('css selector', '#root .primary_header div:nth-child(3)') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('css selector', '#root .primary_header div:nth-child(3)') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'checkout') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'checkout') getting visible element
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'first-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'first-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'last-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'last-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:29 ('id', 'postal-code') reading visible text
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'postal-code') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'continue') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'continue') getting visible element
+[32mINFO    [0m BaseObject:base.py:25 ('id', 'finish') clicking on the element
+[32mINFO    [0m BaseObject:base.py:17 ('id', 'finish') getting visible element
+[32mINFO    [0m BaseObject:base.py:33 ('css selector', '#root .complete-header') saving visible text
+[32mINFO    [0m BaseObject:base.py:17 ('css selector', '#root .complete-header') getting visible element
+[32mINFO    [0m BaseObject:base.py:37  comparing the expected result: Thank you for your order! with the actual result: Thank you for your order!

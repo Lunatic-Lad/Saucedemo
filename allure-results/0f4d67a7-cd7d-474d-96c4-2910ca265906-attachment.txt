@@ -1,0 +1,12 @@
+[32mINFO    [0m BaseObject:base.py:28 ('id', 'user-name') reading visible text
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'user-name') getting visible element
+[32mINFO    [0m BaseObject:base.py:28 ('id', 'password') reading visible text
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'password') getting visible element
+[32mINFO    [0m BaseObject:base.py:24 ('id', 'login-button') clicking on the element
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'login-button') getting visible element
+[32mINFO    [0m BaseObject:base.py:24 ('id', 'react-burger-menu-btn') clicking on the element
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'react-burger-menu-btn') getting visible element
+[32mINFO    [0m BaseObject:base.py:24 ('id', 'logout_sidebar_link') clicking on the element
+[32mINFO    [0m BaseObject:base.py:16 ('id', 'logout_sidebar_link') getting visible element
+[32mINFO    [0m BaseObject:base.py:32 ('class name', 'login_logo') saving visible text
+[32mINFO    [0m BaseObject:base.py:16 ('class name', 'login_logo') getting visible element
