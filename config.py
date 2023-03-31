@@ -11,7 +11,7 @@ with open(path, 'r') as file:
 print(creds_data)
 
 
-USERNAME = creds_data['correct_username']
-PASSWORD = creds_data['correct_password']
+USERNAME = creds_data['username']
+PASSWORD = creds_data['password']
 print(USERNAME)
 print(PASSWORD)
