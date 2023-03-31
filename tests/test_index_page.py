@@ -34,7 +34,6 @@ def test_unsuccessful_login(index_page, error_name, error_password, error_messag
     index_page.validate_error(error_message)
 
 @pytest.mark.api
-@pytest.mark.smoke
 @allure.description('Checking successful logout from site')
 @allure.label('owner', 'Vlad')
 @allure.title('Successful logout')
@@ -49,7 +48,6 @@ def test_successful_logout(index_page):
     index_page.validate_logout()
 
 @pytest.mark.api
-@pytest.mark.smoke
 @allure.description('Checking a successful order')
 @allure.label('owner', 'Vlad')
 @allure.title('Successful order')
