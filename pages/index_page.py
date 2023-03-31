@@ -1,6 +1,7 @@
 from base_object.base import BaseObject
 from base_object.locators import Locators
 from support.assertion import Assertions
+from config import *
 import allure
 
 
@@ -11,11 +12,11 @@ class IndexPage(BaseObject, Assertions):
 
     @allure.step("entering user-name")
     def enter_user_name(self):
-        self.type_keys(Locators.USERNAME_FIELD, "standard_user")
+        self.type_keys(Locators.USERNAME_FIELD, USERNAME)
 
     @allure.step("entering password")
     def enter_password(self):
-        self.type_keys(Locators.PASSWORD_FIELD, "secret_sauce")
+        self.type_keys(Locators.PASSWORD_FIELD, PASSWORD)
 
     @allure.step("clicking to login button")
     def click_to_login_button(self):
